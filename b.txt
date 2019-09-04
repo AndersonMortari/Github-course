@@ -1,2 +1,6 @@
 sacanagem
+<<<<<<< HEAD
 mesmo cogido
+=======
+mesmo codigo
+>>>>>>> teste
